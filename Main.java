@@ -1,5 +1,3 @@
-package org.example;
-
 class Product {
     String name;
     int price;
@@ -49,4 +47,3 @@ public class Main {
 
     }
 }
-
